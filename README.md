@@ -18,7 +18,17 @@ Email spam continues to be a prevalent issue, causing inconvenience and potentia
 
 ## Getting Started
 
+To get started with the Email Spam-Not Spam Classifier, follow these steps:
 
+1. **Dataset:** Obtain a labeled dataset containing examples of spam and non-spam emails. Ensure the dataset is diverse and representative of real-world scenarios.
+
+2. **Data Preprocessing:** Run the data preprocessing script to clean and prepare the dataset for model training.
+
+3. **Model Training:** Train the text classification model using the prepared dataset.
+
+4. **Evaluation:** Evaluate the model's performance using metrics such as accuracy, precision, recall, and F1 score.
+
+5. **Deployment (Optional):** Optionally, deploy the model as part of a spam filter system, integrating it into email clients or servers.
 
 ## Usage
 
