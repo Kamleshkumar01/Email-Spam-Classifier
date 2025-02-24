@@ -1,4 +1,4 @@
-## SecureMail Classifier
+## Email Spam Classifier
 
 SecureMail Classifier is a machine learning project developed to classify emails into spam and non-spam categories. This project utilizes natural language processing and machine learning techniques to create an effective solution for filtering unwanted emails.
 
