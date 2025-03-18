@@ -39,6 +39,6 @@ To use the Email Spam-Not Spam Classifier, follow the guidelines provided in the
 Contributions to the Email Spam-Not Spam Classifier project are welcome! Feel free to fork this repository, make improvements, and submit pull requests. For support or questions, please reach out to [maintainer's email or contact information].
 
 ## Acknowledgements
-
+ 
 We acknowledge the contributions of the open-source community and various libraries that have made this project possible.
 
